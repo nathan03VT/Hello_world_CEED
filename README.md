@@ -4,5 +4,5 @@ Welcome to Data Committee we will teach you to use Gitbash which is a very versa
 To prove you know how to use git please add you name to the list below and commit the changes to the github as a new branch with your name:
 
 Names: 
-
+Rutva Mehta
 ___________________
